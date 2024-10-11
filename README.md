@@ -4,33 +4,44 @@ Passionate software engineer, who always wants to improve himself.
 
 ## Tech Stack 💻
 
-* Java
-* Spring (Boot)
-* Kotlin
-* Angular
-* TypeScript, JavaScript, HTML, CSS
-* Clouds ☁️ (MS Azure, AWS)
-* Docker & containerization
-* Python
-* Svelte & Sveltekit
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=%23CF2237" />
+  <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-%2335BAC4?style=flat-square&logo=gradle&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS-brightgreen?style=flat-square?logo=css3&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-%231D63ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-%23326CE6?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-%23844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-git-E44C30?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ## Tools 🔨
 * VSCode
 * Intellij IDEA Ultimate
 * Windows
 * macOS
+* Ubuntu
 
 ## Hobbies :
 * Hiking 🥾🌲⛰️
 * Diving 🤿 🐟🐡
-* Social person & team player 🧑‍🤝‍🧑
+* Social Person & Team Player 🧑‍🤝‍🧑
 
 ## How to blame me? 😠 
 | [LinkedIn](https://www.linkedin.com/in/philipp-dangl/) | [Xing](https://www.xing.com/profile/Philipp_Dangl4/) | [Stack Overflow](https://stackoverflow.com/users/11494882/phipsll) |
 | --- | --- | --- |
-
-## Further info ℹ
-TBD 🥴
 
 <!--
 **hci2/hci2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
