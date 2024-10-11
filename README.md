@@ -1,5 +1,9 @@
-# Heyho <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" height="60px">
+# Heyho, my name is [hci2](https://github.com/hci2) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" height="60px">
 
+![GitHub followers](https://img.shields.io/github/followers/hci2?label=Follow&style=social)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/typpo/promptfoo/main.yml)](https://github.com/promptfoo/promptfoo/actions/workflows/main.yml)
+
+**TL;DR**
 Passionate software engineer, who always wants to improve himself.
 
 ## Tech Stack 💻
@@ -15,6 +19,8 @@ Passionate software engineer, who always wants to improve himself.
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS-brightgreen?style=flat-square?logo=css3&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
+<p>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00" />
@@ -34,15 +40,16 @@ Passionate software engineer, who always wants to improve himself.
 * macOS
 * Ubuntu
 
-## Hobbies :
+## Hobbies 🆓
 * Hiking 🥾🌲⛰️
 * Diving 🤿 🐟🐡
 * Social Person & Team Player 🧑‍🤝‍🧑
 
-## How to blame me? 😠 
-| [LinkedIn](https://www.linkedin.com/in/philipp-dangl/) | [Xing](https://www.xing.com/profile/Philipp_Dangl4/) | [Stack Overflow](https://stackoverflow.com/users/11494882/phipsll) |
+## How to blame me? \*;,,;\*
+| [![Linkedin: philipp-dangl](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/philipp-dangl/) | [![Xing: Philipp_Dangl4](https://img.shields.io/badge/-Xing-%23006567?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Philipp_Dangl4/) | [![Stackoverflow: phipsll](https://img.shields.io/badge/-Stackoverflow-%23F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11494882/phipsll) |
 | --- | --- | --- |
 
+> _**PS:** My user name is hci2 == human computer interaction version 2.0 because of a group project in an university seminar and due to [hci](https://github.com/hci) was already taken a long time ago. 🖥️🏫😅_
 <!--
 **hci2/hci2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
