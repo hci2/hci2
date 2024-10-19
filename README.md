@@ -49,7 +49,7 @@ Passionate software engineer, who always wants to improve himself.
 | [![Linkedin: philipp-dangl](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/philipp-dangl/) | [![Xing: Philipp_Dangl4](https://img.shields.io/badge/-Xing-%23006567?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Philipp_Dangl4/) | [![Stackoverflow: phipsll](https://img.shields.io/badge/-Stackoverflow-%23F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11494882/phipsll) |
 | --- | --- | --- |
 
-> _**PS:** My user name is hci2 == human computer interaction version 2.0 because of a group project in an university seminar and due to [hci](https://github.com/hci) was already taken a long time ago. 🖥️🏫😅_
+> _**PS:** My user name is hci2 == human-computer interaction version 2.0 because of a group project in a university seminar and due to [hci](https://github.com/hci) was already taken a long time ago. 🖥️🏫😅_
 <!--
 **hci2/hci2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
